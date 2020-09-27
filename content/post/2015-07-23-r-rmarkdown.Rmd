@@ -1,0 +1,71 @@
+---
+title: "TBD"
+author: "Jin Long Cao"
+date: 2020-09-26T21:13:14-05:00
+bibliography: "Reference.bib"
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+
+# Abstract ^^ put above
+
+# Introduction
+Three paragraph statement.
+First paragraph: General. Motivational. Majors specific finding. 
+Second paragraph: More about what you did and found.
+Third paragraph: Outline of the paper. Future work. Weaknesses.
+
+#Data
+The CES dataset is....
+Some initial explorations that would be used to guide this section.
+The variables we focus on are....
+Summary statistics for these variables...
+You must include graphs.
+In this graph we find that the distribution of income is heavily skewed....
+
+# Discussion
+My discussion... main findings of your graph.
+Features of your survey.... Non-response... etc. And how these could affect the results....
+
+## Weaknesses and next steps
+My weaknesses...
+
+# References
+Always cite your source on Rmarkdown. Code: citation(" "). Ex. citation("cesR")
+
+
+
+
+# R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+fit <- lm(dist ~ speed, data = cars)
+fit
+```
+
+# Including Plots
+
+You can also embed plots. See Figure \@ref(fig:pie) for example:
+
+```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
+par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
+  col = c('#0292D8', '#F7EA39', '#C4B632'),
+  init.angle = -50, border = NA
+)
+```
+
+
+# References

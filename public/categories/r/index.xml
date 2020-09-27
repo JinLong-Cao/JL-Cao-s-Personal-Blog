@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on JL Cao&#39;s Personal Blog</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on JL Cao&#39;s Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Sep 2020 21:13:14 -0500</lastBuildDate><atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TBD</title>
+      <link>/2020/09/26/tbd/</link>
+      <pubDate>Sat, 26 Sep 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/2020/09/26/tbd/</guid>
+      <description>Abstract ^^ put aboveIntroductionThree paragraph statement.First paragraph: General. Motivational. Majors specific finding.Second paragraph: More about what you did and found.Third paragraph: Outline of the paper. Future work. Weaknesses.
+#DataThe CES dataset is….Some initial explorations that would be used to guide this section.The variables we focus on are….Summary statistics for these variables…You must include graphs.In this graph we find that the distribution of income is heavily skewed….</description>
+    </item>
+    
+  </channel>
+</rss>
