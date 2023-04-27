@@ -1,2 +1,2 @@
-# JL-Cao-s-Personal-B
+# JL-Cao-s-Personal-Blog
 Personal blog website
